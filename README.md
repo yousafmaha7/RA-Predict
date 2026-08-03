@@ -126,8 +126,12 @@ This project is released under the MIT License. See the `LICENSE` file for detai
 
 ## Citation
 
-If you use RA-Predict in your research, please cite the associated publication when available.
+If you use RA-Predict in your research, please cite 
+```
+AI Mediated Early Detection of Rheumatoid Arthritis Using Clinical, Biochemical and Demographic Features in Pakistan  
 
+Maha Yousaf1,†, Dur E Nishwa1,†, Saadia Iftikhar2, Shaheen Shahzad2, Zeeshan Abbas3,*, Seung Won Lee1,4,5,6,7* 
+```
 ## Contact
 
 For questions, suggestions, or collaboration opportunities, please open an issue in this repository.
