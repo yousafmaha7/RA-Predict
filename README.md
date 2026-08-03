@@ -61,7 +61,7 @@ source ra_env/bin/activate
 
 ```bash
 python -m venv ra_env
-ra_env\Scripts\activate
+ra_env\Scripts\activate.bat
 ```
 
 ### Install dependencies
