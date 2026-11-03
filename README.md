@@ -65,18 +65,12 @@ http://localhost:8501
 2. Submit the input data through the application interface.
 3. The model will generate an RA prediction result.
 
-An example dataset is provided in:
-
-```
-examples/RA_Testing_Data.csv
-```
-
 ## Model Information
 
 The prediction engine is powered by a trained machine learning model stored at:
 
 ```
-model/RA_Predict.pkl
+model/RA_Predict_XGB.json
 ```
 
 The model was developed using clinical and laboratory features relevant to rheumatoid arthritis prediction.
@@ -103,7 +97,7 @@ This project is released under the MIT License. See the `LICENSE` file for detai
 
 If you use RA-Predict in your research, please cite 
 ```
-AI Mediated Early Detection of Rheumatoid Arthritis Using Clinical, Biochemical and Demographic Features in Pakistan  
+Explainable Machine Learning Framework for Rheumatoid Arthritis Prediction in Pakistani Patients 
 
 Maha Yousaf1,†, Dur E Nishwa1,†, Saadia Iftikhar2, Shaheen Shahzad2, Zeeshan Abbas3,*, Seung Won Lee1,4,5,6,7* 
 ```
