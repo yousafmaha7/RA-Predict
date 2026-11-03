@@ -14,31 +14,6 @@ The tool provides a user-friendly interface that allows researchers and healthca
 * Example testing dataset included
 * Pre-trained model integrated for immediate use
 
-## Project Structure
-
-```
-RA-Predict/
-│
-├── app.py
-├── README.md
-├── requirements.txt
-├── LICENSE
-├── .gitignore
-│
-├── assets/
-│   └── logo.png
-│
-├── examples/
-│   └── RA_Testing_Data.csv
-│
-├── model/
-│   └── RA_Predict.pkl
-│
-├── reports/
-│
-└── build/
-```
-
 ## Installation
 
 ### Clone the repository
